@@ -1,0 +1,21 @@
+- nodemon
+  npm install --save-dev nodemon
+  restart server when updating files
+  add it on package json
+
+- morgan
+  do some logs
+  npm install --save morgan
+
+- body parser
+  npm install --save body-parser
+
+- mongoose
+  npm install --save mongoose
+
+- dotenv
+  npm install dotenv --save
+
+- bcrypt
+    npm install bcrypt
+    password encryption
